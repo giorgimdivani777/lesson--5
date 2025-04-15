@@ -1,0 +1,50 @@
+.team {font-size: 16px; color: #282828;   font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal; margin-bottom: 4px;}
+.meet {font-size: 54px; color: #282828;   font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal; margin-bottom: 16px;
+}
+.pass {font-size: 20px; width: 760px; height: 70px; text-align: center;  font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+color: #5F6980; }
+.flex {display: flex; flex-direction: column; align-items: center; padding-top: 80px;}
+.diver {  width: 310px; height: 430px; background-color: #EAECF0;    } 
+.divmain1 {  width: 1336px; display: flex;  justify-content: space-between;  margin: 0 auto; }
+.h2 {font-size: 18px; 
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .h3 { font-size: 14px;  font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;}
+    .divmarg {margin-left: 16px; }
+    .social {display: flex; ;}
+ .divmain2 {width: 1336px; display: flex;  justify-content: space-between;  margin: 0 auto; margin-top: 48px;}
+
+    .radius {border-radius: 50px 50px 50px 50px ; background-color: #F2F4F7; width: 36px; height: 36px; display: flex; justify-content: center; align-items: center;}
+.footer {background-color: #53535354; height: 460px; margin-top: 48px;}
+.maindiv7 {width: 1128px; height: 223px; margin-left: 164px; margin-right: 148px; margin-top: 108px; margin-bottom: 129px; display: flex; justify-content: space-between; justify-content: space-around;}
+.lorem {font-size: 14px;   font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;}
+    .divii1 {width: 318.05px; height: 221px; margin-top: 108px;}
+    .social11 {margin-top: 28px;}
+    .img222 { margin-bottom: 32px;}
+    .website {font-size: 20px;   font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: normal; margin-top: 108px;}
+        .marg {margin-bottom: 15px; margin-top: 71px;}
+        .English {background-color: #054A68;  width: 80px; height: 45px; display: flex; justify-content: center; vertical-align: middle;  margin-top: 58px;  }
+  .eng {font-size: 14px; color: #FFFFFF; ; }
+
+
